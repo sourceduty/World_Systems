@@ -58,6 +58,8 @@ This code simulates the positions of 1,584 satellites in a single orbital shell 
 [Biological Simulator](https://github.com/sourceduty/Biological_Simulator)
 <br>
 [System Structure](https://github.com/sourceduty/System_Structure)
+<br>
+[Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
